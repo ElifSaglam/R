@@ -24,7 +24,7 @@ connection <- dbConnect(
   dbname = "dss_db",
   host = "host",
   port = "port",
-  user = "uzername",
+  user = "username",
   password = "password"
 )
 
